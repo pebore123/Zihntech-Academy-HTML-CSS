@@ -80,3 +80,46 @@
     align-items:center;
     gap: 3px;
 }
+.hero{
+    width:82%;
+    margin: 35px; auto 75px;
+
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    align-items: center;
+    gap:45px;
+
+}
+.hero-image img{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 18px;
+
+}
+.hero-content h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  55px;
+    font-weight: 250px;
+    color:#a27d70;
+    margin-bottom:20px;
+}
+.hero-content span{
+    display: block;
+    max-width: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:#9a8178;
+    margin-bottom: 22px;
+    
+}
+.hero-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius:12px;
+    background-color: #b48b7b;
+    color:#ffffff;
+    text-decoration: none;
+    margin-bottom: 25px;
+    cursor:pointer;
+}
