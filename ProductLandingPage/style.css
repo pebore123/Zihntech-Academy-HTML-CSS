@@ -4,10 +4,10 @@
     font-family: 'Time New Roman', Times, serif;
 }
 .navbar{
+    background-color:whitesmoke';
+    position: relative;
     display:flex;
     align-items:center;
-    justify-content: space-between;
-    position:relative;
     width:100%;
 }
 .nav-left ul{
@@ -16,7 +16,7 @@
     gap:40px;
     list-style:none;
     padding:0;
-    margin0;
+    margin:0;
     flex:1;
 
 }
@@ -28,11 +28,13 @@
 
 }
 .logo{
-    position:relative;
+    position:absolute;
+    left: 50%;
+    top:1oo%;
+    transform:translate(-50,-50);
+    margin:0px;
     width:55px;
     height:55px;
-    margin-left:25px;
-    margin-right:20px;
 
 }
 
@@ -56,18 +58,13 @@
 
 }
 
-.logo img{
-    width:55px;
-    height:55px;
-    object-fit:cover;
-
-}
 .nav-icons{
     display:flex;
-    align-items:center
+    align-items:center;
+    justify-content:flex-end;
     gap: 30px;
-    margin-left:auto;
-    margin-right:20px;
+    flex:1;
+    margin: 0;
 
 }
 
