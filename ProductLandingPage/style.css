@@ -123,3 +123,31 @@
     margin-bottom: 25px;
     cursor:pointer;
 }
+.services{
+    width:90%;
+    margin:0 auto 90px;
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    text-align: center;
+    gap:25px;
+}
+
+.service-item i{
+    font-size: 15px;
+    color:#b18d80;
+    margin-bottom:10px;
+}
+.service-item h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+    color:#00000 ;
+    margin-bottom: 6px;
+
+}
+.service-item p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #9c8981;
+
+}
