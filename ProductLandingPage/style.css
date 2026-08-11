@@ -115,12 +115,15 @@
 }
 .hero-btn{
     display: inline-block;
-    padding: 10px 20px;
-    border-radius:12px;
+    padding: 10px 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    border: 1px solid #c9aea2;
+    border-radius:35px;
     background-color: #b48b7b;
     color:#ffffff;
     text-decoration: none;
-    margin-bottom: 25px;
     cursor:pointer;
 }
 .services{
@@ -150,4 +153,54 @@
     font-size: 14px;
     color: #9c8981;
 
+}
+.about{
+width:88%;
+margin:0 auto 90px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+align-items: center;
+gap: 60px;
+}
+.about-image{
+    display:flex;
+    justify-content: center;
+}
+.about-image img{
+   width: 75%;
+    height: 70p%;
+    object-fit :cover;
+  
+}
+
+.about-content h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #a27d70;
+    margin-bottom: 12px;
+
+}
+.about-content p{
+    max-width:700px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #9a8178;
+    margin-bottom: 18px;
+
+}
+        
+
+.outline-btn{
+    display: inline-block;
+    padding: 10px 25px;
+    letter-spacing: 1px;
+    color:white;
+    background-color:#b48b7b ;
+    border: 1px solid #c9aea2;
+    border-radius: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: zoom-in;
 }
