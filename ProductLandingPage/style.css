@@ -204,3 +204,217 @@ gap: 60px;
     text-decoration: none;
     cursor: zoom-in;
 }
+/* Product -Section*/
+.product-section{
+    width: 92%;
+    margin: 0 auto 80px;
+    text-align: center;
+}
+.product-section> h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight:400;
+    color: #a27d70;
+    margin-bottom: 25px;
+}
+.product-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+
+}
+.product-card{
+    text-align: center;
+}
+.product-card img{
+    width: 150px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.product-card h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #00000;
+    margin-top: 8px;
+}
+.product-card span{
+    display: block;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 12px;
+   color: #8d7971;
+   margin-top: 3px;
+
+}
+.slider-dots{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.slider-dots span{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #d8c6be;
+}
+.slider-dots span:first-child{
+    background-color: #a98a7d;
+}
+/* Testimoonial-Section*/
+.testimonial{
+     width: 70%;
+    margin: 0 auto 80px;
+    text-align: center;
+}
+
+.testimonial p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #a27d70;
+    margin-bottom: 10px;
+    max-width: 400;
+    display: block;
+
+}
+.testimonial-arrow-left{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 18px;
+
+}
+.testimonial-arrow-left button{
+    border:none;
+    background: transparent;
+    color:  #b79b90;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.testimonial-arrow-left span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #00000;
+}
+
+ /* Product -Section*/
+
+   
+.product-section{
+    width: 92%;
+    margin: 0 auto 80px;
+    text-align: center;
+}
+.product-section> h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight:400;
+    color: #a27d70;
+    margin-bottom: 25px;
+}
+.product-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+
+}
+.product-card{
+    text-align: center;
+}
+.product-card img{
+    width: 150px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.product-card h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #00000;
+    margin-top: 8px;
+}
+.product-card span{
+    display: block;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 12px;
+   color: #8d7971;
+   margin-top: 3px;
+
+}
+.slider-dots{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.slider-dots span{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #d8c6be;
+}
+.slider-dots span:first-child{
+    background-color: #a98a7d;
+} 
+
+/* Blog-Section*/
+
+.blog-section{
+
+    width:92% ;
+    margin: 0 auto 80px;
+    text-align: center;
+}
+.blog-section > h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: 400;
+    color: #a27d70;
+    margin-bottom: 25px;
+}
+.blog-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+}
+.blog-card{
+    align-items: center;
+}
+.blog-card img{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.blog-card h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #00000;
+    margin: 8px 0 5px;
+}
+  .blog-card p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: #9b8279;
+    font-weight: 400;
+  }
+  .outline-btn{
+    display: inline-block;
+    padding: 10px 25px;
+    letter-spacing: 1px;
+    color: white;
+    background-color: #b48b7b;
+    border: 1px solid #c9aea2;
+    border-radius: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-decoration: none;
+    cursor:pointer ;
+    margin-top: 15px;
+
+  }  
+
+
+
