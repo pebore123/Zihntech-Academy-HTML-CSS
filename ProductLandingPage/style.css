@@ -487,9 +487,11 @@ margin-bottom: 30px;
     
 
 }
+
 .footer links{
 width: 100px;
 }
+
 .footer .links ul{
     display: flex;
     align-items: center;
