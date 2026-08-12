@@ -1,44 +1,107 @@
-# 🌸 Florex Skincare Website
+# 🌸 Flores Skincare Website
 
 ## 📌 Project Overview
 
-Florex is a modern and elegant skincare website designed and developed using **HTML5** and **CSS3**. The website focuses on creating a clean, soft, and visually appealing online presence for a skincare brand.
+Flores is a modern and elegant skincare website designed and developed using **HTML5** and **CSS3**.
 
-The design combines **lilac and purple backgrounds, light brown text, and soft pink accents** to create a calm, elegant, and feminine skincare aesthetic.
+The website presents a clean and sophisticated skincare brand with a soft, minimal visual style. It focuses on creating a calm and premium online experience through balanced layouts, natural product imagery, refined typography, and a warm neutral color palette.
 
 ## ✨ Features
 
-* Responsive navigation bar
-* Centered Florex logo
-* Hero section
-* Skincare content sections
-* Call-to-action buttons
-* Recent blog section
-* Social media icons and links
+* Clean and minimal navigation bar
+* Flores brand logo and branding
+* Hero section with skincare products
+* Call-to-action button
+* Quick Delivery section
+* Pick Up In Store section
+* Special Packaging section
+* Return Policy section
+* About Us section
+* Trending Products section
+* Product cards with names and prices
+* Customer testimonial section
+* Latest Drops section
+* Recent Blogs section
+* Newsletter subscription section
+* Skincare image gallery
+* Social media icons
 * Organized footer section
-* Clean and modern layout
-* Consistent typography and color scheme
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Used to structure the website.
-* **CSS3** – Used for styling, layout, spacing, positioning, colors, and typography.
+* **HTML5** – Used to structure the website and its different sections.
+* **CSS3** – Used to create the layout, typography, spacing, positioning, colors, buttons, images, and overall visual design.
 
 ## 🎨 Design Concept
 
-The Florex website was designed with a soft and elegant skincare aesthetic.
+The Flores website follows a **minimal, elegant, and natural skincare aesthetic**.
+
+The design uses a soft and warm visual appearance to create a premium and relaxing feel that complements the skincare products displayed throughout the website.
 
 ### Color Palette
 
-* **Lilac/Purple** – Creates a calm and elegant appearance.
-* **Light Brown** – Provides a warm and natural contrast.
-* **Soft Pink** – Adds a subtle skincare-inspired accent.
-* **White/Light Tones** – Keeps the website clean and spacious.
+* **Warm Off-White/Cream** – Used as the primary background color throughout the website.
+* **Muted Dusty Rose/Brown** – Used mainly for headings, product names, and other important text.
+* **Soft Beige and Neutral Tones** – Used to create subtle contrast and maintain the calm appearance of the design.
+* **Light Neutral Tones** – Used in borders, buttons, and other supporting elements.
+
+The combination of these neutral and muted tones gives the website a **soft, sophisticated, clean, and premium appearance**.
+
+## 🖥️ Website Sections
+
+### Header
+
+The header contains the Flores logo, navigation links, and icons for user-related actions, search, and shopping.
+
+### Hero Section
+
+The hero section introduces the skincare brand with a featured product image, a large **"Skin Care Products"** heading, supporting text, and a **"Shop Now"** button.
+
+### Service Features
+
+The service section highlights important customer benefits:
+
+* Quick Delivery
+* Pick Up In Store
+* Special Packaging
+* Return Policy
+
+### About Us
+
+The About Us section introduces the brand and provides a short description of its skincare products and purpose.
+
+### Trending Products
+
+This section displays selected skincare products with their images, names, and prices.
+
+### Customer Testimonial
+
+A testimonial section is included to showcase customer feedback and create trust around the brand.
+
+### Latest Drops
+
+The Latest Drops section highlights newly introduced skincare products with product images, names, and prices.
+
+### Recent Blogs
+
+The Recent Blogs section provides skincare-related content covering topics such as skincare brands, skincare formulas, and healthy skincare habits.
+
+### Newsletter Subscription
+
+Visitors can subscribe to receive updates from Flores through the newsletter section.
+
+### Image Gallery
+
+A collection of skincare-related images is displayed near the bottom of the page to strengthen the visual identity of the brand.
+
+### Footer
+
+The footer contains the Flores brand name, navigation links, social media icons, and copyright information.
 
 ## 📂 Project Structure
 
 ```text
-Florex/
+Flores/
 │
 ├── index.html
 ├── style.css
@@ -52,59 +115,68 @@ Florex/
 
 The main goals of this project are to:
 
-1. Create a professional skincare website.
-2. Practice writing semantic HTML.
-3. Improve CSS styling and layout skills.
-4. Practice using Flexbox for website layouts.
-5. Improve understanding of spacing and positioning.
-6. Build a project suitable for a frontend development portfolio.
+1. Build a professional skincare website using HTML and CSS.
+2. Practice creating a well-structured HTML document.
+3. Improve CSS layout and styling skills.
+4. Practice creating sections with consistent spacing and alignment.
+5. Develop a clean and visually balanced website.
+6. Gain practical experience creating product-based website layouts.
+7. Build a frontend project that can be included in a development portfolio.
 
 ## 💻 Development
 
-This project was developed from scratch using HTML and CSS.
+The Flores website was developed from scratch using **HTML5 and CSS3**.
 
-During the development process, I practiced:
+During the development process, I worked on different aspects of frontend development, including:
 
-* Creating structured HTML sections
-* Styling elements with CSS
-* Using Flexbox for layout
-* Positioning the logo and navigation elements
-* Managing margins, padding, and gaps
+* Structuring webpage sections with HTML
+* Creating navigation layouts
+* Positioning logos and navigation elements
+* Working with images
+* Creating product cards
+* Using Flexbox for layouts
+* Managing margins and padding
+* Controlling spacing and gaps
 * Styling buttons and links
-* Creating an organized footer
-* Working with images and icons
-* Debugging HTML and CSS issues
+* Working with typography
+* Creating and organizing the footer
+* Debugging HTML and CSS styling issues
+* Maintaining consistency across different sections of the webpage
 
 ## 📚 What I Learned
 
-Through this project, I improved my understanding of:
+This project helped me improve my practical understanding of:
 
-* HTML5 structure
-* CSS selectors and properties
+* HTML5 page structure
+* CSS selectors
+* CSS properties
 * Flexbox
-* Element positioning
 * Margins and padding
+* Width and height
+* Element positioning
 * Typography
-* Image styling
+* Image sizing and positioning
+* Buttons and links
 * Navigation layouts
-* Footer layouts
+* Product card layouts
+* Footer organization
 * CSS debugging
-* Git and GitHub
+* Git and GitHub workflow
 
 ## 🚀 Future Improvements
 
-Future improvements for the Florex website may include:
+Future improvements to the Flores website may include:
 
-* Full mobile responsiveness
-* JavaScript interactions
-* Product filtering
-* Shopping cart functionality
-* Product detail pages
-* Customer reviews
-* Newsletter subscription
-* Contact form functionality
-* Backend integration
-* Online payment functionality
+* Making the website fully responsive across mobile, tablet, and desktop devices
+* Adding JavaScript interactions
+* Creating functional product pages
+* Adding a working shopping cart
+* Adding product search and filtering
+* Creating a functional newsletter subscription
+* Adding a working contact form
+* Adding customer review functionality
+* Connecting the website to a backend
+* Integrating an online payment system
 
 ## 👩‍💻 Author
 
@@ -114,4 +186,4 @@ Frontend Development Learner | HTML & CSS
 
 ---
 
-⭐ **Florex is a frontend project created to demonstrate my growing skills in web design and development.**
+⭐ **Flores is a frontend development project created to demonstrate my growing skills in building clean, structured, and visually appealing websites using HTML and CSS.**
